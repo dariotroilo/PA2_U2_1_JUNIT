@@ -4,6 +4,7 @@ public class MatrizAdyacencia {
 
 	private boolean[][] _ady;
 	private int cantElementos=0;
+
 	
 	public MatrizAdyacencia(int cant)
 	{
